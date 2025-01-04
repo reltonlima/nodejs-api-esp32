@@ -25,7 +25,7 @@ iot-light-control
 
 1. **Clone the repository:**
    ```
-   git clone <repository-url>
+   git clone https://github.com/reltonlima/nodejs-api-esp32.git
    cd iot-light-control
    ```
 
