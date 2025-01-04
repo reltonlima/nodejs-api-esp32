@@ -6,6 +6,8 @@ This project allows you to control lights using an ESP32 and an 8-channel relay 
 
 ```
 iot-light-control
+├── arduino-ide
+│   ├── relayControl.ino  
 ├── src
 │   ├── app.js                # Entry point of the application
 │   ├── controllers
